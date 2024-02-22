@@ -1,4 +1,4 @@
-#Agenda em PHP com MVC, PDO e FullCalendar
+# Agenda em PHP com MVC, PDO e FullCalendar
 
 Este projeto representa uma aplicação de agenda desenvolvida em PHP, utilizando a arquitetura MVC (Model-View-Controller) e o PDO para interação com o banco de dados. A aplicação é projetada especificamente para atender às necessidades da SAEB/CTI Coordenação de Tecnologia da Informação, combinando eficiência e facilidade de uso.
 
