@@ -1,0 +1,9 @@
+# RewriteEngine on
+# RewriteRule ^(.*)$   public_html/$1   [L]
+
+RewriteEngine On
+RewriteBase /teamschedule.app/
+
+# Redirecionar todas as solicitações para a pasta public_html
+RewriteCond %{REQUEST_URI} !^/public_html/
+RewriteRule ^(.*)$ public_html/$1 [L]
