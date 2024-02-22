@@ -13,7 +13,8 @@ MySQL ou outro banco de dados compatível com PDO<br>
 Clone este repositório: git clone https://github.com/seu-usuario/agenda-php-mvc.git<br>
 Configure seu servidor web para apontar para o diretório do projeto.<br>
 Importe o arquivo database.sql no seu banco de dados para criar a tabela necessária.<br>
-Estrutura do Projeto<br>
+
+## Estrutura do Projeto:<br>
 /app: Contém os arquivos relacionados à lógica de aplicação.<br>
 
 /controllers: Controladores PHP.<br>
