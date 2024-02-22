@@ -2,14 +2,14 @@
 
 Este projeto representa uma aplicação de agenda desenvolvida em PHP, utilizando a arquitetura MVC (Model-View-Controller) e o PDO para interação com o banco de dados. A aplicação é projetada especificamente para atender ao teste de cargo Tecnico em Desenvolvimento da SAEB/CTI Coordenação de Tecnologia da Informação.
 
-## Pré-requisitos<br>
+## Pré-requisitos:<br>
 Certifique-se de ter os seguintes requisitos instalados antes de começar:
 
 Servidor web (por exemplo, Apache)<br>
 PHP 7.x ou superior<br>
 MySQL ou outro banco de dados compatível com PDO<br>
 
-## Configuração<br>
+## Configuração:<br>
 Clone este repositório: git clone https://github.com/seu-usuario/agenda-php-mvc.git<br>
 Configure seu servidor web para apontar para o diretório do projeto.<br>
 Importe o arquivo database.sql no seu banco de dados para criar a tabela necessária.<br>
@@ -27,7 +27,7 @@ Importe o arquivo database.sql no seu banco de dados para criar a tabela necess�
 /lib: Bibliotecas de terceiros (por exemplo, FullCalendar).<br>
 /config: Configurações gerais do projeto.<br>
 
-## Configuração do Banco de Dados<br>
+## Configuração do Banco de Dados:<br>
 Edite o arquivo /config/config.php com as informações do seu banco de dados.<br>
 Importe o arquivo database.sql no seu banco de dados para criar a tabela necessária.<br>
 
