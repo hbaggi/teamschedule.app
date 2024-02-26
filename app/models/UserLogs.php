@@ -1,4 +1,5 @@
 <?php
+
 /**
  * A lightweight PHP MVC Framework.
  *
@@ -34,5 +35,4 @@ class UserLogs extends Model
 
 		return true;
 	}
-
 }

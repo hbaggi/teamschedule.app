@@ -1,11 +1,10 @@
 <?php
-
 /**
  * A lightweight PHP MVC Framework.
- * 
+ *
  * @author Lázaro Baggi
  * @copyright Lázaro Baggi - BAGGITECH. All rights reserved.
- * @link http://baggitech.com.br
+ * @link https://github.com/hbaggi/teamschedule.app.git
  */
 
 
