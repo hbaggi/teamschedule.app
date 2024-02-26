@@ -1,12 +1,9 @@
-<?php
-/**
- * Projeto Agenda PHP PDO MVC.
+<?php/**
+ * A lightweight PHP MVC Framework.
  *
  * @author Lázaro Baggi
- * @copyright CTI SAEB - SECRETARIA DA ADMINISTRAÇÃO All rights reserved.
- * @link https://github.com/hbaggi/teamschedule.git
- * 
- * 
+ * @copyright Lázaro Baggi - BAGGITECH. All rights reserved.
+ * @link https://github.com/hbaggi/teamschedule.app.git
  */
 
 class CodeGenerate extends Model

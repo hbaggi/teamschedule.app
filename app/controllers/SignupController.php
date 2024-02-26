@@ -4,7 +4,7 @@
  * A lightweight PHP MVC Framework.
  *
  * @author Lázaro Baggi
- * @copyright Lázaro Baggi - BTECH. All rights reserved.
+ * @copyright Lázaro Baggi - BAGGITECH. All rights reserved.
  * @link http://baggitech.com.br
  */
 
